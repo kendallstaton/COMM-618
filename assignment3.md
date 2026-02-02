@@ -23,3 +23,6 @@ Prior to 2025, complaints related to leaf blowers were filed as “industrial/co
 Complaints are submitted by ZIP code, with Potomac's 20854 bringing in 84 noise complaints related to leaf blowers. The area had 97 total noise complaints, the most of any ZIP code in 2025. 
 
 The prior year, the ZIP code, which encompasses all of Potomac, only had 19 total submissions, only one of which related to the noise from a leaf blower. 
+
+Below is a chart showing the distribution of the five area codes with the highest number of noise complaints in 2025. 
+<img width="458.5" height="510" alt="2026-02-01" src="https://github.com/user-attachments/assets/c077fae4-8efd-457f-b3be-ba8a7c481775" />
