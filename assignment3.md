@@ -1,4 +1,4 @@
-#Leaf blowers are banned, but they’re still causing a ruckus#
+# Leaf blowers are banned, but they’re still causing a ruckus
 
 More than half of the noise complaints filed in Montgomery County, Maryland last year related to the use of gas powered leaf blowers despite a county-wide ban on the tools.
 
