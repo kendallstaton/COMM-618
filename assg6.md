@@ -22,6 +22,10 @@ https://datawrapper.dwcdn.net/XyGhB/1/
 +++
 
 This is data I came across while working on a story about the potential loss of the 15th street bike lane for The Post. For my real story I would tie in the connection between the data and the story topic better, but since this is for class I didn't want to spend too much time on that aspect. Figured it was best to show I can write about data and can make a chart! 
-If I had the time, I would have liked to have figured out a better way to show 2026 is partial data. I think it's clear enough with the footnote, but like it better when the colors are different. 
+
+If I had the time, I would have liked to have figured out a better way to show 2026 is partial data. I think it's clear enough with the footnote, but like it better when the colors are different.
+
 Here's a link to my raw data: https://opendata.dc.gov/datasets/DCGIS::crashes-in-dc/about
 Here's a link to my spreadsheet/pivot table: https://docs.google.com/spreadsheets/d/115XqLE0o8Se9KBMO08HDI3Bf6Hpt6mpNVNMywgENtOI/edit?usp=sharing
+
+Also I'm not sure why the link on Github is showing months on the x-axis instead of just years -- it is only showing years in actual datawrapper. 
