@@ -1,9 +1,9 @@
-<h1> Bicyclists are getting injured in vehicle crashes. Trump wants to take away bike lanes</h1>
+<h1> This popular DC bike lane may be raized by the federal government</h1>
 As dangerous pedestrian crashes increase across Washington, the Trump administration has released guidance that will make it harder for the locality to secure funding for pedestrian infrastructure, like protected bike lanes. 
 
 WOULD EXPLAIN MORE ABOUT THE FEDERAL GUIDANCE HERE. 
 
-The Washington Area Bike Association is concerned the federal government may be looking to axe portions of the bike lane on 15th Street down by the National Mall. The organization’s advocacy director Kalli Krumpos said designating pedestrian areas on roadways lessens congestion and lowers pedestrian crash frequency. Getting rid of the 15th street bike lane won’t help anyone, she said. 
+The Washington Area Bike Association is concerned the federal government may be looking to axe portions of the bike lane on 15th Street down by the National Mall. The organization’s advocacy director Kalli Krumpos said an anonymous source within the administration tipped WABA off. Krumpos said designating pedestrian areas on roadways lessens congestion and lowers pedestrian crash frequency. Getting rid of the 15th street bike lane won’t help anyone, she said. 
 
 WOULD DIRECT QUOTE HER BUT HAVEN’T TRANSCRIBED INTERVIEW YET.
 
