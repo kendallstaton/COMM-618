@@ -2,7 +2,7 @@
  
  Local bike advocates are concerned the federal government may be looking to axe portions of the bike lane on 15th Street down by the National Mall. 
  
-The Washington Area Bicyclist Association's advocacy director Kalli Krumpos said an anonymous source within the administration tipped WABA off about the potential demolition. Krumpos said designating pedestrian areas on roadways lessens congestion and lowers pedestrian crash frequency. Getting rid of the 15th street bike lane won’t help anyone, she said. 
+The Washington Area Bicyclist Association's advocacy director Kalli Krumpos said an anonymous source within the Trump administration tipped WABA off about the potential demolition. Krumpos said designating pedestrian areas on roadways lessens congestion and lowers pedestrian crash frequency. Getting rid of the 15th street bike lane won’t help anyone, she said. 
 
 WOULD DIRECT QUOTE HER BUT HAVEN’T TRANSCRIBED INTERVIEW YET.
 
