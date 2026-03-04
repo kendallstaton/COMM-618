@@ -1,3 +1,4 @@
+<h1> Bicyclists are getting injured in vehicle crashes. Trump wants to take away bike lanes</h1>
 As dangerous pedestrian crashes increase across Washington, the Trump administration has released guidance that will make it harder for the locality to secure funding for pedestrian infrastructure, like protected bike lanes. 
 
 WOULD EXPLAIN MORE ABOUT THE FEDERAL GUIDANCE HERE. 
@@ -16,7 +17,10 @@ Other pedestrians saw a jump in minor injuries from vehicle collisions in 2023, 
 
 WOULD QUOTE SOMEONE FROM MPD HERE WITH INFO ABOUT WHY THESE NUMBER HAVE BEEN GOING UP. 
 
+https://datawrapper.dwcdn.net/XyGhB/1/
+
 +++
+
 This is data I came across while working on a story about the potential loss of the 15th street bike lane for The Post. For my real story I would tie in the connection between the data and the story topic better, but since this is for class I didn't want to spend too much time on that aspect. Figured it was best to show I can write about data and can make a chart! 
 If I had the time, I would have liked to have figured out a better way to show 2026 is partial data. I think it's clear enough with the footnote, but like it better when the colors are different. 
 Here's a link to my raw data: https://opendata.dc.gov/datasets/DCGIS::crashes-in-dc/about
