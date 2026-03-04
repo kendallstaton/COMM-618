@@ -32,3 +32,5 @@ Here's a link to my raw data: https://opendata.dc.gov/datasets/DCGIS::crashes-in
 Here's a link to my spreadsheet/pivot table: https://docs.google.com/spreadsheets/d/115XqLE0o8Se9KBMO08HDI3Bf6Hpt6mpNVNMywgENtOI/edit?usp=sharing
 
 Also I'm not sure why the link on Github is showing months on the x-axis instead of just years -- it is only showing years in actual datawrapper. 
+
+I would tie in the non-bicyclists pedestrian info from the chart later down in the story. 
