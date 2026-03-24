@@ -26,4 +26,8 @@ Here is a link to my data set https://docs.google.com/spreadsheets/d/1ilWBMGkgtk
 
 And here is a link to datawrapper https://datawrapper.dwcdn.net/F59aZ/3/
 
-Would do more reporting and flesh out that anecdotal lead. He is the first and so far only hazing death in the U.S. in 2026. I think it would also be interesting further down in the story to talk about the Philippines anti-hazing law, which was bolstered in 2018 and could show how other countries are addressing these violent acts. I'd also like to talk to some students who have been hazed about why its so difficult to come forward and report the behavior. I have a few people who have agreed to talk to me so far. I also plan to discuss the database I am consulting with its author, journalists Hank Nuwer. He's been tracking individual hazing deaths in the 80s. 
+I would do more reporting and flesh out that anecdotal lead. He is the first and so far only hazing death in the U.S. in 2026. I think it would also be interesting further down in the story to talk about the Philippines anti-hazing law, which was bolstered in 2018 and could show how other countries are addressing these violent acts. In the Philippines, their national law threatens up to life in prison for non-fatal hazing. 
+
+I'd also like to talk to some students who have been hazed about why it's so difficult to come forward and report the behavior. I have a few people who have agreed to talk to me so far. I also plan to discuss the database I am consulting with its author, journalists Hank Nuwer. He's been tracking individual hazing deaths in the 80s. 
+
+And then of course there are multiple institutions dedicated to anti-hazing education that I would talk to for this project. 
