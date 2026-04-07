@@ -15,6 +15,8 @@ In extreme cases, hazing turns deadly.
 
 Since the turn of the century, 127 people have died in hazing-related incidents, according to the U.S. Hazing Death Database maintained by Hazinginfo.org. College aged students, 18 to 22-years-old, are the most likely group to die from the rituals, but hazing is a persistent issue across all age groups and geographies in the U.S.
 
+https://datawrapper.dwcdn.net/3aR3R/2/ 
+
 Jolayne Houtz founded Hazinginfo.org in 2023 to make information about the potentially violent past of Greek life organizations easier to find for parents of college students. Her son Sam Martinez died from a hazing incident at Washington State University in 2019. 
 
 “My son would still be alive if I had access to even a portion of what I later learned about Washington State University and Alpha Tau Omega, the fraternity he was pledging,” Houtz said. 
@@ -24,6 +26,8 @@ She successfully lobbied the state of Washington to pass a law making hazing a f
 Drug and alcohol toxicity are the leading causes of death for fatal hazing incidents in the United States, an analysis of deadly hazing incidents shows. Almost all states have anti-hazing laws, but only a dozen or so classify hazing as a felony. 
 Hazing has killed at least one person in America every year since 1959. Most often, college aged men are the victims. 
 Houtz started the hazing deaths database, which is just a portion of information on Hazinginfo.org, with the help of Hank Nuwer, a journalist who has been tracking hazing incidents for decades. She said fatal incidents are added based on news coverage and independent confirmation. 
+
+https://datawrapper.dwcdn.net/F59aZ/4/
 
 She and other parents of hazing victims pushed the U.S. Congress to pass an anti-hazing law in 2024, which mandates public universities in the U.S. publish annual reports of hazing incidents and implement anti-hazing education programs. That requirement started in 2025. As of January, only 46% of schools nationwide are in compliance. 
 
@@ -40,6 +44,8 @@ He was forced to down 18 drinks in just one hour, a mixture of vodka and beer, i
 He tried to leave the basement multiple times into the night, falling on wooden and concrete floors. He would eventually stumble his way up a few stairs, only to fall fifteen feet, lacerating his spleen and cracking his skull. 
 
 Frat members rough-housed around him, one stepping over his body on the way to the kitchen. No one called for help until the next afternoon. Tim died days later in a local hospital, hooked up to a ventilator. 
+
+https://datawrapper.dwcdn.net/WYwdv/2/
 
 Nearly ten years later, walking through the grocery store his mother Evelyn still has a hard time seeing chocolate poptarts, which were Tim’s favorite snack. In the almost decade since their son died, Evelyn and Tim’s father, Jim, have advocated for harsher hazing laws in the U.S. 
 
