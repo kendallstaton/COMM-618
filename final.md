@@ -23,7 +23,7 @@ Jolayne Houtz founded Hazinginfo.org in 2023 to make information about the poten
 
 She successfully lobbied the state of Washington to pass a law making hazing a felony after her son died of alcohol poisoning, with a blood-alcohol level nearly five times the legal limit.
 
-Forced substance consumption is the leading causes of death for fatal hazing incidents in the United States, an analysis of deadly hazing incidents shows. Almost all states have anti-hazing laws, but only a dozen or so classify hazing as a felony. 
+Forced substance consumption is the leading cause of death for fatal hazing incidents in the United States, an analysis of deadly hazing incidents shows. Almost all states have anti-hazing laws, but only a dozen or so classify hazing as a felony. 
 Hazing has killed at least one person in America every year since 1959. Most often, college aged men are the victims. 
 Houtz started the hazing deaths database, which is just a portion of information on Hazinginfo.org, with the help of Hank Nuwer, a journalist who has been tracking hazing incidents for decades. She said fatal incidents are added based on news coverage and independent confirmation. 
 
