@@ -64,3 +64,6 @@ Instead of eradication, the Piazza’s are pushing for accountability. Jim said 
 While fraternities and sororities will never cease to exist, Evelyn said it’s important to increase hazing education and hold people accountable for violating laws. 
 
 “No good comes from hazing. The whole point of it is to cause harm. It’s inherently risky,” Evelyn said. “Eventually, somebody will pay the price.”
+
++++
+link to datasheets: https://docs.google.com/spreadsheets/d/1ilWBMGkgtkVK4cKL_qVn5ekrQETarpwRyBg6m5XiY60/edit?usp=sharing
