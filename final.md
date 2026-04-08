@@ -23,7 +23,7 @@ Jolayne Houtz founded Hazinginfo.org in 2023 to make information about the poten
 
 She successfully lobbied the state of Washington to pass a law making hazing a felony after her son died of alcohol poisoning, with a blood-alcohol level nearly five times the legal limit.
 
-Drug and alcohol toxicity are the leading causes of death for fatal hazing incidents in the United States, an analysis of deadly hazing incidents shows. Almost all states have anti-hazing laws, but only a dozen or so classify hazing as a felony. 
+Forced substance consumption is the leading causes of death for fatal hazing incidents in the United States, an analysis of deadly hazing incidents shows. Almost all states have anti-hazing laws, but only a dozen or so classify hazing as a felony. 
 Hazing has killed at least one person in America every year since 1959. Most often, college aged men are the victims. 
 Houtz started the hazing deaths database, which is just a portion of information on Hazinginfo.org, with the help of Hank Nuwer, a journalist who has been tracking hazing incidents for decades. She said fatal incidents are added based on news coverage and independent confirmation. 
 
@@ -35,7 +35,7 @@ Allan, the hazing researcher, said the federal law is a huge step towards accoun
 
 “We need people to pay attention,” Allan said. 
 
-The most common cause of death in fatal hazings are toxicological, like alcohol or drug toxicity, which is listed as the primary or secondary cause of death in 49.6% of the 113 deadly hazing incidents reported since 2000. Blunt force trauma follows closely behind, being named in 44.2% of cases.
+The most common cause of death in fatal hazings are toxicological, like alcohol or drug toxicity, which is listed as the primary or secondary cause of death in 49.6% of the 127 deadly hazing incidents reported since 2000. Blunt force trauma follows closely behind, being named in 44.2% of cases.
 
 Pennsylvania State University freshman Tim Piazza died from a mixture of both while rushing Beta Theta Pi in the Spring of 2017. 
 
