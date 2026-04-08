@@ -55,11 +55,11 @@ The Pennsylvania legislature passed the Timothy J. Piazza Anti-Hazing Law in 201
 
 Despite the law, Pennsylvania police have yet to arrest or charge anyone in connection with a near fatal hazing incident that happened nearly six months ago at Rutgers University.
 
-A 19-year-old student rushing Alpha Sigma Phi was electrocuted during a hazing ritual, according to an investigation by the university, leaving him in critical condition and hospitalizing him for months. The school banned the university from campus, but no criminal charges have been filed. 
+A 19-year-old student rushing Alpha Sigma Phi was electrocuted during a hazing ritual, according to an investigation by the university, leaving him in critical condition and hospitalizing him for months. The school banned the fraternity from campus, but no criminal charges have been filed. 
 
 The Piazzas also had a hand in drafting the federal anti-hazing law passed in 2024. It’s unrealistic to think Greek organizations will ever stop existing, Evelyn said, because of powerful alumni with large financial backing. She called Greek life “big business.” 
 
-Instead of eradication, the Piazza’s are pushing for accountability. Jim said police need to apply the existing laws, national fraternities need to educate better and universities have to hold students accountable. 
+Instead of eradication, the Piazzas are pushing for accountability. Jim said police need to apply the existing laws, national fraternities need to educate better and universities have to hold students accountable. 
 
 While fraternities and sororities will never cease to exist, Evelyn said it’s important to increase hazing education and hold people accountable for violating laws. 
 
